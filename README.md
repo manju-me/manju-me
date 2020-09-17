@@ -3,7 +3,7 @@
 
 More About <b>me</b>
 
-- 🔭 I’m currently working on Project MJ.Tech.
+- 🔭 I’m currently working on My Project MJ.Tech.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on Youtube.
 - 💬 Ask me Anything about Tech Related Stuff.
