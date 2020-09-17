@@ -1,16 +1,16 @@
 ### Hi there It's me M∆njunath 👋 
 [![HitCount](http://hits.dwyl.com/manju-me/manju-me.svg)](http://hits.dwyl.com/manju-me/manju-me)
 
-More About me
+More About <b>me</b>
 
 - 🔭 I’m currently working on MJ.Tech.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on Youtube.
 - 💬 Ask me Anything about Tech Related Stuff.
-- 📫 How to reach me:[Intsagram-m_a_n_j_u_3_6_0 ] (https://www.instagram.com/m_a_n_j_u_3_6_0/)
-- 📫 You can also reach me:https://manju-me.github.io/MJ.Tech/
-- 😄 Sweet & Short you can call Me: <b> MJ</b>
-- ⚡ Fun fact: <b>It's easy to calculate a tip without a calculator.</b>
+- 📫 How to reach me [Intsagram-m_a_n_j_u_3_6_0 ] (https://www.instagram.com/m_a_n_j_u_3_6_0/)
+- 📫 You can also reach me https://manju-me.github.io/MJ.Tech/
+- 😄 Sweet & Short you can call me <b> MJ</b>
+- ⚡ Fun fact <b>It's easy to calculate a tip without a calculator.</b>
 
 
 
