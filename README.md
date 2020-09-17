@@ -12,6 +12,7 @@ More About <b>me</b>
 - 😄 Sweet & Short you can call me <b> MJ</b>
 - ⚡ Fun fact <b>It's easy to calculate a tip without a calculator.</b>
 
+![manju-me github stats](https://github-readme-stats.vercel.app/api?username=manju-me&theme=synthwave&show_icons=true)
 
 
      I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me,  I like front-end development with HTML5/CSS3/Java-Script/BootSrap4. I love trying out new technologies and update with modern tools helping our lives more easier.
