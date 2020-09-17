@@ -1,4 +1,4 @@
-### Hi there It's me <p style="color: blue">M∆njunath</p> 👋 
+### Hi there It's me M∆njunath 👋
 [![HitCount](http://hits.dwyl.com/manju-me/manju-me.svg)](http://hits.dwyl.com/manju-me/manju-me)
 
 More About <b>me</b>
@@ -17,4 +17,5 @@ More About <b>me</b>
 
 ![manju-me github stats](https://github-readme-stats.vercel.app/api?username=manju-me&theme=synthwave&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manju-me&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
