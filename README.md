@@ -9,7 +9,7 @@ More About me
 - 💬 Ask me Anything about Tech Related Stuff.
 - 📫 How to reach me:[Intsagram-m_a_n_j_u_3_6_0 ] (https://www.instagram.com/m_a_n_j_u_3_6_0/)
 - 📫 You can also reach me:https://manju-me.github.io/MJ.Tech/
-- 😄 Sweet & Shotly you can call Me: MJ
+- 😄 Sweet & Shotly you can call Me:MJ
 - ⚡ Fun fact: It's easy to calculate a tip without a calculator.
 
 
