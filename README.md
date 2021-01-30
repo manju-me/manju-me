@@ -3,8 +3,8 @@
 
 More About <b>me</b>
 
-- 🔭 I’m currently Studying MCA.
-- 🌱 I’m currently learning Python.
+- 🔭 I’m Currently Studying MCA.
+- 🌱 I’m Currently learning Python.
 - 👯 I’m looking to collaborate on Youtube.
 - 💬 Ask me Anything about Tech Related Stuff.
 - 📫 How to reach me [Intsagram-m_a_n_j_u_3_6_0 ] (https://www.instagram.com/m_a_n_j_u_3_6_0/)
