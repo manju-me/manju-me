@@ -3,7 +3,7 @@
 
 More About <b>me</b>
 
-- 🔭 I'm Currently Persuing <b>MCA.</b>
+- 🔭 I'm Currently Persuing <b>#MCA.</b>
 - 🌱 I’m Currently learning Python.
 - 👯 I’m looking to collaborate on Youtube.
 - 💬 Ask me Anything about Tech Related Stuff.
