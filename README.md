@@ -2,6 +2,7 @@
 [![HitCount](http://hits.dwyl.com/manju-me/manju-me.svg)](http://hits.dwyl.com/manju-me/manju-me)
 
 More About <b>me</b>
+   ![Uploading image.png…]()
 
 - 🔭 I'm Currently Persuing <b>#MCA.</b>
 - 🌱 I’m Currently learning Python.
