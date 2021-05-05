@@ -51,7 +51,7 @@ More About <b>me</b>
 <br/>
 <img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
 <br/>
-<img align="left" alt="Eclipse" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eclipse-ide/eclipse-ide.png" />
+<img align="left" alt="Eclipse-IDE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eclipse-ide/eclipse-ide.png" />
 <br/>
 <img align="left" alt="MySQL Workbenh" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/my sql workbench/mysql workbench.png" />
 
