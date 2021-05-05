@@ -21,6 +21,8 @@
      I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me,  I like front-end development with HTML5/CSS3/Java-Script/BootSrap4. I love trying out new technologies and update with modern tools helping our lives more easier.
 <b>Happy coding !!..</b>
 <hr>
+
+
 #### Technologies...
 
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -49,6 +51,8 @@
 <br>
 
 <br/>
+
+<hr>
 
 ### IDE's
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
