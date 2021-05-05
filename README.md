@@ -9,6 +9,8 @@
 
 :computer::point_right::globe_with_meridians: https://manju-me.github.io/MJ.Tech/ 
 
+<hr>
+
 <b>More About me</b>
 
 - 🔭 I'm Currently Persuing <b>#Master.</b>
@@ -68,4 +70,5 @@
 ![manju-me github stats](https://github-readme-stats.vercel.app/api?username=manju-me&theme=synthwave&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manju-me&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr>
 -->
