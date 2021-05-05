@@ -66,6 +66,7 @@
 <br/>
 <br/>
 
+<hr>
 
 ![manju-me github stats](https://github-readme-stats.vercel.app/api?username=manju-me&theme=synthwave&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manju-me&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
