@@ -1,12 +1,13 @@
 
 
 ##  Hi I'm Manjunath Here <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-[![HitCount](http://hits.dwyl.com/manju-me/manju-me.svg)](http://hits.dwyl.com/manju-me/manju-me)
+
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@HManjunth-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/HManjunth) [![Linkedin Badge](https://img.shields.io/badge/-Manjunath-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-hinglaje/) [![Mail Badge](https://img.shields.io/badge/-m_a_n_j_u_3_6_0-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/m_a_n_j_u_3_6_0) [![Mail Badge](https://img.shields.io/badge/-Manjunath-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:imindian1997@gmail.com)
 <br/>
-:globe_with_meridians:https://manju-me.github.io/MJ.Tech/
+
+:paperclip::globe_with_meridians:https://manju-me.github.io/MJ.Tech/
 
 <b>More About me</b>
 
