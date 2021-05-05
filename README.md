@@ -56,8 +56,8 @@
 <img align="left" alt="atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <br/>
 
+
 ![manju-me github stats](https://github-readme-stats.vercel.app/api?username=manju-me&theme=synthwave&show_icons=true)
-</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manju-me&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
