@@ -4,8 +4,7 @@
 [![HitCount](http://hits.dwyl.com/manju-me/manju-me.svg)](http://hits.dwyl.com/manju-me/manju-me)
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
-
+[![Twitter Badge](https://img.shields.io/badge/-@HManjunth-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/HManjunth) [![Linkedin Badge](https://img.shields.io/badge/-Manjunath-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-hinglaje/) [![Mail Badge](https://img.shields.io/badge/-m_a_n_j_u_3_6_0-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/m_a_n_j_u_3_6_0) [![Mail Badge](https://img.shields.io/badge/-Manjunath-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:imindian1997@gmail.com)
 
 <b>More About me</b>
 
