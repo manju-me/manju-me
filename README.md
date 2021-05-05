@@ -66,7 +66,7 @@
 <br/>
 <hr>
 
-#### 1.1.2. Profile Visits 
+#### -> Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manju-me.manju-me)
 <hr>
