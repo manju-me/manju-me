@@ -64,7 +64,11 @@
 
 <br/>
 <br/>
+<hr>
 
+#### 1.1.2. Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=manju-me.manju-me)
 <hr>
 
 ![manju-me github stats](https://github-readme-stats.vercel.app/api?username=manju-me&theme=synthwave&show_icons=true)
