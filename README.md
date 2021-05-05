@@ -3,7 +3,7 @@
 ##  Hi I'm Manjunath Here <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 [![HitCount](http://hits.dwyl.com/manju-me/manju-me.svg)](http://hits.dwyl.com/manju-me/manju-me)
 
-More About <b>me</b>
+<b>More About me</b>
 
 - 🔭 I'm Currently Persuing <b>#MCA.</b>
 - 🌱 I’m Currently learning Python.
@@ -54,9 +54,10 @@ More About <b>me</b>
 <img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
 
 <img align="left" alt="atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
-
+<br/>
 
 ![manju-me github stats](https://github-readme-stats.vercel.app/api?username=manju-me&theme=synthwave&show_icons=true)
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manju-me&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
