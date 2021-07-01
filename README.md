@@ -9,7 +9,8 @@
 :computer::point_right::globe_with_meridians: https://manju-me.github.io/MJ.Tech/ 
 
 <hr>
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=manju-me.manju-me)
+<hr>
 <b>->More About me</b>
 
 - 🔭 I'm Currently Persuing <b>#Master.</b>
@@ -69,8 +70,7 @@
 
 #### -> Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=manju-me.manju-me)
-<hr>
+
 
 ![manju-me github stats](https://github-readme-stats.vercel.app/api?username=manju-me&theme=synthwave&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manju-me&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
