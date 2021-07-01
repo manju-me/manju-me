@@ -9,7 +9,10 @@
 :computer::point_right::globe_with_meridians: https://manju-me.github.io/MJ.Tech/ 
 
 <hr>
+
+#### -> Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manju-me.manju-me)
+
 <hr>
 <b>->More About me</b>
 
@@ -68,7 +71,6 @@
 <br/>
 <hr>
 
-#### -> Profile Visits 
 
 
 
