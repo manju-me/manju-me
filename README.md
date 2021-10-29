@@ -16,7 +16,7 @@
 <hr>
 <b>->More About me</b>
 
-- 🔭 I'm Currently Persuing <b>#Master.</b>
+- 🔭 I'm Currently Perceiving <b>#Master.</b>
 - 👯 I’m looking to collaborate on Youtube.
 - 💬 Ask me Anything about Tech Related Stuff.
 - 📫 You can also reach me https://manju-me.github.io/MJ.Tech/
