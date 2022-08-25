@@ -24,7 +24,7 @@
 - ⚡ Fun fact <b>Nothing Starts with 'N' and Ends with 'G'</b>
 - :smiley: Don't Study me. you won't be <b>Graduate</b>🎓 
     
-    I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me,  I love Technologies Like Python,Machine Learning,Artificial Intelligency, Deep Learning,Neural Network #etc. I love trying out new technologies and update with modern tools helping our lives more easier.
+    I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me,  I love Technologies Like ###Python,Machine Learning,Artificial Intelligency, Deep Learning,Neural Network #etc. I love trying out new technologies and update with modern tools helping our lives more easier.
 <b>Happy coding !!..</b>
 <hr>
 
