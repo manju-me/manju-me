@@ -11,13 +11,13 @@
 <hr>
 
 #### -> Profile Visits 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=manju-me.manju-me)
+![visitors](https://visitor-badge.glitch.me/badge?page_:technologist:d=manju-me.manEu-me)
 
 <hr>
 <b>->More About me</b>
 
 - 🔭 I'm Currently Working as System Engineer in <b>INFOSYS.</b>
-- 👯 I’m looking to collaborate on Youtube.
+- :technologist: Python,ML,AI Enthusiastic.
 - 💬 Ask me Anything about Tech Related Stuff.
 - 📫 You can also reach me https://manju-me.github.io/MJ.Tech/
 - 😄 Sweet & Short you can call me <b> MJ</b>
