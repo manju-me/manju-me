@@ -17,7 +17,7 @@
 <b>->More About me</b>
 
 - 🔭 I'm Currently Working as System Engineer in <b>INFOSYS.</b>
-- :technologist: Python,ML,AI Enthusiastic.
+- :technologist: Python, ML, AI Enthusiastic.
 - 💬 Ask me Anything about Tech Related Stuff.
 - 📫 You can also reach me https://manju-me.github.io/MJ.Tech/
 - 😄 Sweet & Short you can call me <b> MJ</b>
