@@ -8,16 +8,11 @@
 
 :computer::point_right::globe_with_meridians: https://manju-me.github.io/MJ.Tech/ 
 
-<hr>
 
-#### -> Profile Visits 
-![visitors](https://visitor-badge.glitch.me/badge?page_:technologist:d=manju-me.manEu-me)
-
-<hr>
 <b>->More About me</b>
 
 - 🔭 I'm Currently Working as DevOps Engineer in <b>INFOSYS.</b>
-- :technologist: DevOps, AWS,Docker, k8s, Jenkins, Terraform, EKS, Python, Automation Enthusiastic.
+- :technologist: DevOps, AWS, Docker, k8s, Jenkins, Terraform, EKS, Python, Automation Enthusiastic.
 - 💬 Ask me Anything about Tech Related Stuff.
 - 📫 You can also reach me https://manju-me.github.io/MJ.Tech/
 - 😄 Sweet & Short you can call me <b> MJ</b>
